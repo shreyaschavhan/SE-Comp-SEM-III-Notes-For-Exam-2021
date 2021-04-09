@@ -38,4 +38,22 @@
  
  * Aspect ratio:
     * the ratio of number of vertical pixels to the number of horizontal pixels required to draw a line of same length in both direction is called as aspect ratio.
+
+* Frame Buffer:
+  * Large continuous section of computer memory is called frame buffer.
+  * There is one bit memory for each pixel
+  * Ideally, the size of frame buffer is same as screen resolution.
+  * Frame buffer is known as bitmap if it uses 1 memory bit per pixel
+  * Frame buffer is known as pixmap if it uses more than 1 memory bit per pixel 
+
+### Display Devices:
+
+* Output devices used to display information is called as Display devices.
+
+* CRT:
+    * ![image](https://user-images.githubusercontent.com/68887544/114137972-9278d280-992a-11eb-9f9b-be2b7e0fddb8.png)
+    * Persistence Rate:
+       * It defines how long a pixel emits light after the CRT beam is removed.
+       * The time it takes the emitted light to decay to 1-10th of its original intensity is called as the persistance of phosphor
+       
     
