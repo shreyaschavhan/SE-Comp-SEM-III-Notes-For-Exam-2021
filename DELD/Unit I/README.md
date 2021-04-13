@@ -1,5 +1,12 @@
 # Unit I : Minimization Technique
 
+> Note: 
+> 1. Learn Truth Table
+> 2. Minimization Using K-map
+> 3. ![image](https://user-images.githubusercontent.com/68887544/114539271-f45e7280-9c71-11eb-8671-feab02ebe21c.png)
+
+---
+
 * Explain following terms: 
 > * Product Term 
 >   * In Y = AB + BC + AC ; AB, BC & AC are called product terms
@@ -80,3 +87,81 @@
 > * The numbers of cells in K-map is 2^n where n is the number of variable
 > * With every  cell we can change only 1 bit (According to gray code)
 > 
+
+---
+
+* Grouping in K-map:
+> * Pairs: Grouping two adjacent 1's will eliminate one variable.
+> ![image](https://user-images.githubusercontent.com/68887544/114527948-2a95f500-9c66-11eb-85ff-6804d4227cf4.png)
+> * Quads: Grouping a quad will eliminate two variables
+> ![image](https://user-images.githubusercontent.com/68887544/114529318-772e0000-9c67-11eb-83d0-b4cbfa8962ce.png)
+> 
+
+---
+* Overlapping
+> * ![image](https://user-images.githubusercontent.com/68887544/114528874-0555b680-9c67-11eb-826a-4f6afa7decd8.png)
+
+---
+
+* Minimization using K-map:
+> * ![image](https://user-images.githubusercontent.com/68887544/114537797-3e465900-9c70-11eb-86da-b7c98f26df46.png)
+ ---
+ 
+ * Binary Equivalents of Decimal numbers.
+
+>  Decimal | Binary
+>  ---| ---
+>  0|	0
+>  1|	1
+>  2	|10
+>  3	|11
+>  4|	100
+>  5|	101
+>  6|	110
+>  7|	111
+>  8	|1000
+>  9	|1001
+>  10	|1010
+>  11	|1011
+>  12	|1100
+>  13	|1101
+>  14	|1110
+>  15	|1111
+>  16	|10000
+>  17	|10001
+>  18	|10010
+>  19	|10011
+>  20	|10100
+>  21	|10101
+>  22	|10110
+>  23	|10111
+>  24	|11000
+>  25	|11001
+>  26	|11010
+>  27	|11011
+>  28	|11100
+>  29	|11101
+>  30	|11110
+>  31	|11111
+>  32	|100000
+>  33	|100001
+>  34	|100010
+>  35	|100011
+>  36	|100100
+>  37	|100101
+>  38	|100110
+>  39	|100111
+>  40	|101000
+>  41	|101001
+>  42	|101010
+>  43	|101011
+>  44	|101100
+>  45	|101101
+>  46	|101110
+>  47	|101111
+>  48	|110000
+>  49	|110001
+>  50	|110010
+
+---
+* Quine McCluskey Method : https://www.youtube.com/watch?v=l1jgq0R5EwQ
