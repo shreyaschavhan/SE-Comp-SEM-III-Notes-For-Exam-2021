@@ -1,5 +1,8 @@
 # Unit II: Combinational Logic Design
 
+> * Notes: 
+> 	* A'B + AB' = A exor B
+> 	* A + A'B = A + B
 
 * Introduction:
 
@@ -121,3 +124,81 @@
 >		* K-map for carry: BCin + AB + ACin
 > 	* Draw Ckt diagram
 
+---
+
+* Half Subtractor:
+> * Half subtractor is a combinational ckt used to get the difference between tow single bit numbers.
+> * Steps:
+> 	* Truth Table
+> 		* ![image](https://user-images.githubusercontent.com/68887544/114850455-66fc5900-9dfe-11eb-81a9-e05fd29aec24.png)
+> 	* K-map:
+>		* K-map for difference : A ex-or B
+>		* K-map for borrow : A'B
+> 	*  Draw ckt diagram
+
+---
+
+* Full Subtractor:
+> * Combinational ckt used to get difference of 3 bits
+> * Steps:
+> 	* Truth Table:
+>		* ![image](https://user-images.githubusercontent.com/68887544/114851456-7cbe4e00-9dff-11eb-89c5-1423e60bf79f.png) 
+> 	* K-map:
+> 		* K-map for difference: A exor B exor bout
+> 		* K-map for bout : Bbin + A'B + A'bin
+> 	* draw logic diagram
+
+--- 
+
+* Full adder using half adder:
+> * Diagram:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/114852957-ec810880-9e00-11eb-94de-1fc7e7ea476f.png)
+> * For half adder:
+> 	* Sum = A exor B
+> 	* Carry = AB
+> * Solution:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/114854773-cb211c00-9e02-11eb-8bd5-514d48529dd7.png)
+
+---
+
+* Carry Look ahead adder:
+> * Carry Genaration:
+>   * ![image](https://user-images.githubusercontent.com/68887544/114856331-99a95000-9e04-11eb-8834-a13bd317767b.png)
+> * Diagram :
+>   * ![image](https://user-images.githubusercontent.com/68887544/114863508-7040f200-9e0d-11eb-93aa-09f0220ca09c.png)
+
+---
+
+* BCD Adder:
+> * If sum is greater than 9 then circuit should show output 1
+> * Ex. 
+>   * ![image](https://user-images.githubusercontent.com/68887544/114866034-b64b8500-9e10-11eb-890f-5482d5d2cee5.png)
+> * K-map for output
+> * Prime implicant grouping
+> * Y = S<sub>4</sub>S<sub>3</sub> + S<sub>4</sub>S<sub>2</sub>
+> * Draw logic Diagram
+>   * ![image](https://user-images.githubusercontent.com/68887544/114867343-4fc76680-9e12-11eb-8571-0fb66e89efa4.png)
+ 
+---
+
+* BCD Addition:
+> * when bcd addition exceed 9 then it is invalid bcd
+> * then add 6 i.e 0110 for correction 
+> * you will get actual addition.
+
+---
+
+* Multiplexer:
+> * Multiplexer is a  combinational logic circuit used to select only one input among several inputs based on selection lines
+> * This can act as digital switch.
+> * This is also called as data selector.
+> * For a MUX there can be 2^n inputs, n selection lines & only one output
+> * Block Diagram
+> 	* ![image](https://user-images.githubusercontent.com/68887544/114868655-c9138900-9e13-11eb-8fcc-c22232c5270d.png)
+> * 2x1 MUX:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/114869565-c36a7300-9e14-11eb-94c3-68b982b3190f.png)
+> * 4x1 MUX:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/114870229-8783dd80-9e15-11eb-8687-fdc9f607c0d5.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/114870301-9ff3f800-9e15-11eb-8656-967a192a521a.png)
+
+---
