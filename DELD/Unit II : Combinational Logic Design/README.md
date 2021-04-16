@@ -202,3 +202,28 @@
 >   * ![image](https://user-images.githubusercontent.com/68887544/114870301-9ff3f800-9e15-11eb-8656-967a192a521a.png)
 
 ---
+
+* Demultiplexer (DeMux)
+> * One input and many output
+> * Reverse operation of multiplexer
+> * one to many ckt or data distributor 
+> * Block Diagram
+>  * ![image](https://user-images.githubusercontent.com/68887544/114979247-2822dd80-9ea8-11eb-9fc1-5d4442f13102.png)
+> * n = 2^m --> Number of  output lines
+> * m = log<sub>2</sub>n --> no. of select lines
+
+---
+
+* Decoder:
+> * Decoder is a multi-input multi-output logic circuit which decodes n inputs into 2^n possible outputs 
+> * Block Diagram:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/114981277-5950dd00-9eab-11eb-815d-0038fb40ae97.png)
+> * 2 to 4 Decoder
+> 	* Truth Table
+> 	 * ![image](https://user-images.githubusercontent.com/68887544/114981701-0592c380-9eac-11eb-8be1-61f069b1621d.png)
+> 	* Y<sub>3</sub> = AB
+>	* Y<sub>2</sub> = AB'
+> 	* Y<sub>1</sub> = A'B
+> 	* Y<sub>0</sub> = A'B'
+> 	* Logic Diagram:
+>		* ![image](https://user-images.githubusercontent.com/68887544/114982290-e183b200-9eac-11eb-917e-8e5dada818c1.png)
