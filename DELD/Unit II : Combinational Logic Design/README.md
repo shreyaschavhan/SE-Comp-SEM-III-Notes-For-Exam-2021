@@ -227,3 +227,57 @@
 > 	* Y<sub>0</sub> = A'B'
 > 	* Logic Diagram:
 >		* ![image](https://user-images.githubusercontent.com/68887544/114982290-e183b200-9eac-11eb-917e-8e5dada818c1.png)
+> * 3 to 8 Decoder
+> 	* Truth Table:
+> 	        * ![image](https://user-images.githubusercontent.com/68887544/114982903-a170ff00-9ead-11eb-86f9-0e049ba86f49.png)
+> 	* Outputs:
+>		* Y<sub>7</sub> = ABC  		
+>		* Y<sub>6</sub> = ABC'  		
+>		* Y<sub>5</sub> = AB'C  		
+>		* Y<sub>4</sub> = AB'C'  		
+>		* Y<sub>3</sub> = A'BC  		
+>		* Y<sub>2</sub> = A'BC'  		
+>		* Y<sub>1</sub> = A'B'C  		
+>		* Y<sub>0</sub> = A'B'C'
+>	* Logic Diagram:
+>		* ![image](https://user-images.githubusercontent.com/68887544/114983864-bdc16b80-9eae-11eb-8703-e54f57f4468d.png)
+  		
+---
+
+* Implement SOP and POS using MUX:
+> * for n variable function we have 0-2^n values as minterms or maxterms
+> * Example : https://youtu.be/onc87C6_pyc
+
+---
+
+* Comparators
+> * They are used to compare two n-bit numbers
+> * Block Diagram:
+>	* ![image](https://user-images.githubusercontent.com/68887544/114987329-aa180400-9eb2-11eb-814b-1948595a0198.png)
+> * 2 bit comparator:
+>	* Truth Table:
+>		* ![image](https://user-images.githubusercontent.com/68887544/114987391-bd2ad400-9eb2-11eb-8b59-da3888899dc7.png)
+> 	* K-maps:
+>		* K-map for A > B
+> 		* K-map for A = B
+> 		* K-map for A < B
+> 		* ![image](https://user-images.githubusercontent.com/68887544/114988453-fa439600-9eb3-11eb-8149-f92452ebba4f.png)
+> 	* Logic Diagram:
+>		* ![image](https://user-images.githubusercontent.com/68887544/114988802-5c9c9680-9eb4-11eb-9a9d-9f9f4cc65e26.png)
+
+
+---
+
+* Parity Bit or Check Bit
+> * Odd parity - If number of 1 bits is odd
+> * Even parity - If number of 1 bits is even
+> * Odd parity generator:
+> 	* Steps:	
+>		* Truth table:
+>		* K-map
+>		* Logic diagram
+> * Even parity generator:
+>	* Same steps as odd
+>	
+---
+> Unit II Complete
