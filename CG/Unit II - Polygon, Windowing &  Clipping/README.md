@@ -205,4 +205,20 @@
 > * we will give computer a list of vertices(which are inside and intersect)
 > * 4 rules:
 >	* ![image](https://user-images.githubusercontent.com/68887544/115201238-bc907880-a112-11eb-8d3b-d0901041d01d.png)
+> * Best result on Convex polygon.
+> * For concave polyhon: Extraneuos lines, at least an angle > 180^0
+
+---
+
+* Weiler atherton polygon clipping algorithm:
+>  * Polygon --> Subject polygon
+> * Clipping window --> Clip Polygon
+> * We will create two list here-
+> * Subject polygon list will be used for inserting insertion points
+> * Clip polygon list will be used for leaving intersection point.
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115215685-61b24d80-a121-11eb-9324-995d411a1139.png)
+> * Weiler Atherton overcomes the disadvantages of sutherland hodgeman algorithm
 > 
+---
+
+> P.S. Done Unit II - Polygon, Windowing & Clipping 
