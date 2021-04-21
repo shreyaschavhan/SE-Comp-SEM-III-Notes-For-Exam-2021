@@ -39,3 +39,11 @@
 
 --- 
 
+* **Combinations** :
+> * The number of r combinations of a set with n distinct elements is denoted by C(n, r) or <sup>n</sup>C<sub>r</sub>
+> * Formula: 
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115565257-da0e3f80-a2d6-11eb-9769-1a98aff09245.png)
+> * Theorem:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115565580-1d68ae00-a2d7-11eb-8e2f-f2b8c37eb338.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/115565777-4db04c80-a2d7-11eb-9fa6-179271ae1849.png)
+
