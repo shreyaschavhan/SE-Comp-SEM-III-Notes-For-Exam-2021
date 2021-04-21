@@ -54,3 +54,46 @@
 > 	*  ![image](https://user-images.githubusercontent.com/68887544/115372643-bec50680-a1e8-11eb-87e2-28cc673c199f.png)
 > * HOmogeneous Co-ordinates (Row Major):
 > 	* ![image](https://user-images.githubusercontent.com/68887544/115381574-52023a00-a1f1-11eb-9f36-d157b2233a06.png)
+
+---
+
+* Rotation About Arbitrary point:
+> * Translate arbitrary point to origin.
+> * Rotate at θ angle
+> * Translate back at same arbitrary position.
+> * ![image](https://user-images.githubusercontent.com/68887544/115510442-5d12a400-a29d-11eb-807f-229d74f76ccb.png)
+> * Final Equation:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115510920-e9bd6200-a29d-11eb-83f8-3a5541ef5062.png)
+> 
+
+---
+
+* Shear:
+> * Slanting or tilting something is called as shear
+> * types:
+> 	* X - shear : Only X co-ordinate change, y is preserved
+> 	* Y - shear : Only y co-ordinate change, X is preserved
+> * X - Shear Equation:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115518819-3c028100-a2a6-11eb-9e16-b942724ef801.png)
+> * Y - Shear Equation:
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115518988-68b69880-a2a6-11eb-81d6-248f03e180d9.png)
+>
+> * Shearing relative to other reference line:
+> 	* 
+
+---
+
+## 3D Tranformation:
+
+* 3D
+> * Dimension: defining a object in a physical spatial with minimum no. of co-ordinate is called as Dimension.
+> * The number of ways in which we can move in a dimension is defined as no. of dimension.
+> 	* 0D : We cannot move at all
+>	* 1D : We can move in only one direction
+> 	* 2D : We can move in two directions
+> 	* 3D : We can move in all directions (3)
+
+----
+
+* 3D Translation:
+> * 
