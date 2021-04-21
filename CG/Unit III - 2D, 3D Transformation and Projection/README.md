@@ -121,6 +121,7 @@
 
 * Projections:
 > * Projection is the process of tranforming an object representation from n-dimensional space to less than n-dimensional space.
+> * projection is the process of creating image on 2D plane.
 > * View Plane or Projectin Plane: Plane where object is projected.
 > * Types:
 > 	* Parallel Projection
@@ -128,7 +129,9 @@
 > 	*  ![image](https://user-images.githubusercontent.com/68887544/115541681-0ddc6b80-a2bd-11eb-817a-bf3a25c5b8a3.png)
 > * Taxonomy of Projection:
 >   * ![image](https://user-images.githubusercontent.com/68887544/115541885-44b28180-a2bd-11eb-9c6b-39aaf0d47ecd.png)
-
+>
+> * Rays of line is called as projector.
+> * 
 ---
 
 * Parallel Projection:
@@ -144,6 +147,38 @@
 
 ---
 
+* Orthographic Projection:
+> * Ortho means at Right angle.
+> * If projectors are perpendicular to view plane, then it is called as orthographic projection.
+> * Types:
+> 	* Multiview: Top view, side view, bottom view, i.e we can generate multiple type of view but they can be seen in 2Dimensional view. 
+> 	* Auxinomatrix: Here we can see in all 3 dimensions
+> 		* Isometric = All angle equal - ![image](https://user-images.githubusercontent.com/68887544/115545473-7a596980-a2c1-11eb-98bd-aaf2a8e6c933.png)
+> 		* Dimetric = Two angles are not equal - ![image](https://user-images.githubusercontent.com/68887544/115545762-cdcbb780-a2c1-11eb-8335-028713f54014.png)
+> 		* Trimetric = Three angles are not equal. -![image](https://user-images.githubusercontent.com/68887544/115545858-eb008600-a2c1-11eb-9a1e-786287391782.png)
+
+
+---
 * Oblique parallel Projection:
 > * Projectors are parallel to each other but not perpendicular to view plane.
-> * 
+> * Types:
+> 	* Cavalier
+> 		* Keep bigger face of object
+> 		* Strike rays at any angle
+> 		* The length of image with wide length will be same and other edge length will be proportional.
+> 		 
+> 	* Cabinet:
+> 		* Cabinet says if the angle is 63.4<sup>0</sup> then the wide length will look 1/2. 
+> 
+
+---
+
+* Perspective Projection:
+> * Lines of projection i.e projectors will intersect and we can see the lines meeting at one point, this point i s called as center of projection/ projection reference point.
+> * It will give us realistic views.
+> * Vanishing point: Like railway track, the parallell line seems meeting at infinity, such point is called as vanishing point.
+> * Vanishing point types:
+> 	* 1 point : if 1 vanishing point is created then called as 1 point.
+> 	* 2 point : if 2 vanishing point is created then called as 2 point.
+> 	* 3 point : if 3 vanishing point is created then called as 3 point.
+
