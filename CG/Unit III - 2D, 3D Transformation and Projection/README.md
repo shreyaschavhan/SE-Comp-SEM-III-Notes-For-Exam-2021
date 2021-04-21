@@ -79,7 +79,8 @@
 > 	* ![image](https://user-images.githubusercontent.com/68887544/115518988-68b69880-a2a6-11eb-81d6-248f03e180d9.png)
 >
 > * Shearing relative to other reference line:
-> 	* 
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115536208-2ea1c280-a2b7-11eb-857f-b2f1c297cc06.png)
+
 
 ---
 
@@ -96,4 +97,53 @@
 ----
 
 * 3D Translation:
+> * Equation:
+>   * ![image](https://user-images.githubusercontent.com/68887544/115537577-94db1500-a2b8-11eb-8724-08c32fab63de.png)
+> 
+
+----
+
+* 3D Scaling:
+> * Equation:
+> 	*   ![image](https://user-images.githubusercontent.com/68887544/115538761-d7512180-a2b9-11eb-8e0d-bf8850a9b857.png)
+
+---
+
+* 3D Rotation parallel to co-ordinate axis:
+> * Equation z-axis:
+>   * ![image](https://user-images.githubusercontent.com/68887544/115539641-d40a6580-a2ba-11eb-9988-8686663aa266.png)
+> * Equation all axis:
+>   * ![image](https://user-images.githubusercontent.com/68887544/115540213-7cb8c500-a2bb-11eb-9c51-dc6a7310a927.png)
+
+---
+
+## Projections:
+
+* Projections:
+> * Projection is the process of tranforming an object representation from n-dimensional space to less than n-dimensional space.
+> * View Plane or Projectin Plane: Plane where object is projected.
+> * Types:
+> 	* Parallel Projection
+> 	* Perspective Projection
+> 	*  ![image](https://user-images.githubusercontent.com/68887544/115541681-0ddc6b80-a2bd-11eb-817a-bf3a25c5b8a3.png)
+> * Taxonomy of Projection:
+>   * ![image](https://user-images.githubusercontent.com/68887544/115541885-44b28180-a2bd-11eb-9c6b-39aaf0d47ecd.png)
+
+---
+
+* Parallel Projection:
+> * Parallel projection is achieved by passing parallel rays from the object vertices and projecting the object on view plane.
+> * All projection vectors are parallel to each other.
+> * It preserves true shape and size of the object on view plane.
+> * It fails to capture depth information and hence cannot produce a realistic view.
+> * Types:
+> 	* Orthographic Parallel projection
+> 	* Oblique parallel projection
+> 	* ![image](https://user-images.githubusercontent.com/68887544/115542078-80e5e200-a2bd-11eb-97a9-856061a94f89.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/115542821-4c265a80-a2be-11eb-8ef2-9b8e19b2c698.png)
+
+---
+
+* Oblique parallel Projection:
+> * Projectors are parallel to each other but not perpendicular to view plane.
 > * 
