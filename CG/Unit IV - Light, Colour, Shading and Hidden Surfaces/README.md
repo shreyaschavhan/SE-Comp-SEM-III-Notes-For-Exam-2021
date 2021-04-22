@@ -106,3 +106,67 @@
 
 * Difference between RGB and HSV color model:
 > * ![image](https://user-images.githubusercontent.com/68887544/115707719-c32a2480-a38c-11eb-9bc2-6b227b60d29b.png)
+
+---
+
+## Illumination Model:
+
+* Illumination Model:
+> * Lighting models that are used to calculate intensity at every pixel in the scene is also known as Illumination model.
+> * Light Source:
+>   * Light emitting source 
+>   * Surface that reflects light can also act as light source.
+
+* Ambient Light:
+> * Even if the object is not directly exposed to the light source, due to reflected rays from the other  surfaces, it would be still visible. Such light is called as ambient light.
+> * Ambient light is constant for all the surfaces and it scatters equally in all direction.
+> * Objects illuminated using ambient Illumination model appears as a monochromatic, silhouette, unless the polygon facets of objects are given different shades.
+> * If we assume that the ambient light reflected from all surfaces are the same and in all directions, then the illumination model equation would be,
+>   * ![image](https://user-images.githubusercontent.com/68887544/115738815-08f5e580-a3ab-11eb-9995-6858cda044f7.png)
+
+---
+* Diffuse  and Specular Reflection 
+> * Diffuse Reflection:
+>   * Equal reflection of light in all direction from surface is called as diffuse reflection.
+>       * ![image](https://user-images.githubusercontent.com/68887544/115739345-799d0200-a3ab-11eb-816f-df529381e5cb.png)
+> * Specular Reflection:
+>   * Reflection in a particular direction only is know as specular reflection.
+>   * ![image](https://user-images.githubusercontent.com/68887544/115739713-c5e84200-a3ab-11eb-9eb6-3ef0e81b238a.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/115739973-05169300-a3ac-11eb-951f-e1234d67ba10.png)
+> * Ideal diffuse Reflector or  Lambertian reflectors:
+>   * If diffuse reflection scattered from the surface is equal in all direction, independent of viewing directions, such surfaces are called ideal diffuse reflector or Lambertian reflectors, since the radiated light energy from any surface is governed by Lambert's cosine law.
+
+---
+
+* Specular Reflection and Phong Model:
+> * Specular Reflection:
+>   * Reflection in a particular direction only is know as specular reflection.
+>   * ![image](https://user-images.githubusercontent.com/68887544/115739713-c5e84200-a3ab-11eb-9eb6-3ef0e81b238a.png)
+> *  ![image](https://user-images.githubusercontent.com/68887544/115740749-c1705900-a3ac-11eb-8612-ec76294a2a1a.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/115740768-c8976700-a3ac-11eb-9666-ef9c27c6586f.png)
+
+---
+* Combined Diffuse and Specular Reflections with Multiple Light Sources:
+> * ![image](https://user-images.githubusercontent.com/68887544/115740991-f8466f00-a3ac-11eb-954c-f57320377a40.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/115741023-ff6d7d00-a3ac-11eb-94c2-05f5c88568e9.png)
+
+---
+
+* Warn Model:
+> * Warn model provides a way to model the studio light with varying intensity in different directions.
+> * ![image](https://user-images.githubusercontent.com/68887544/115741336-46f40900-a3ad-11eb-9f81-9f0701d3807d.png)
+
+---
+
+## Shading Algorithms:
+* Gauraud Shading:
+> * Flat shading/Constant intensity shading: 
+>   *  We get discontinuity in flat shading so we use gauraud shading.
+> * Steps:
+>   * Determine the average unit  normal vector at each polygon vertex.
+>   * Apply illumination model to each polygon vertex to determine polygon vertex intensity.
+>   * Linearly  interpolate the vertex intensities over the surface of polygon.
+> * ![image](https://user-images.githubusercontent.com/68887544/115743304-2dec5780-a3af-11eb-8ab2-094af9272ff9.png)
+> 
+---
+
