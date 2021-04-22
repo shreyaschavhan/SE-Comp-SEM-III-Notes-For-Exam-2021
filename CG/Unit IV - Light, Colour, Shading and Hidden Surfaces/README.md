@@ -170,3 +170,57 @@
 > 
 ---
 
+* Phong Shading/Normal Vector interpolation shading:
+> * Steps:
+>   * Determine the average unit normal vector at each polygon vertex.
+>   * Linearly interpolate the vertex normals over the surface of polygon.
+>   * Apply the illumination model along each scan to determine projected pixel intensities of surface points. 
+> * ![image](https://user-images.githubusercontent.com/68887544/115751199-9428a880-a3b6-11eb-8926-af9f4140bfde.png)
+
+---
+
+* Halftone Shading:
+> * Halftoning is used on a device supporting a limited intensity range. 
+> * Halftoning improves the quality of the picture by increasing visual resolution using a minimum number of intensity levels. This method is also known as patterning.
+> * Halftoning is used to reproduce the photographs for newspapers and magazines. This process is called halftoning and the reproduced image is called halftoning. 
+> * Halftone image looks like as if it is composed of black circles of different radius. The dark region is produced using large circles. Light regions are produced by small circles. Good qualitiy books and mazine are printed using approximately 60-80 circles of varying radius per centimetre. 
+> * Example:
+>   * ![image](https://user-images.githubusercontent.com/68887544/115752559-d7374b80-a3b7-11eb-94e9-0d930ee3bc46.png)
+
+---
+
+* Difference between gourauld and phong shading:
+> * ![image](https://user-images.githubusercontent.com/68887544/115752768-0d74cb00-a3b8-11eb-8689-b2dc0601cd32.png)
+
+
+----
+
+## Hidden Surfaces:
+
+* Hidden Surfaces:
+> * Visible surface detection algorithms are also known as hidden line or hidden surface removal algorithms. 
+> * Aim of such algorithms is to identify the visible lines or surfaces of a given set of object from particular viewing direction.
+
+---
+
+* Back Face Detection and Removal:
+> * Sometimes visible surface detection is also referred to as hidden surface removal of back face detection.
+> * ![image](https://user-images.githubusercontent.com/68887544/115753740-2631b080-a3b9-11eb-8097-ddf132286aec.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/115753769-2d58be80-a3b9-11eb-9758-99f0315c5ad3.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/115753842-41042500-a3b9-11eb-91bb-ad91be342dd1.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/115753870-47929c80-a3b9-11eb-961a-d4fab30f7cf6.png)
+
+---
+
+* Depth Buffer:
+> * Depth Buffer method is also known as the z buffer method.
+> * This is an image space approach.
+> * It compares the depth of the pixels of overlapping objects into the scene and renders the nearest pixel to the viewer.
+> * This algorithm is generally applied on normalized co-ordinates, where all values fall between 0 and 1.
+> * This algorithm is an extension of the idea of the frame buffer. Implementation requieres two buffers.
+> 
+
+----
+
+> * P.S. Refer to Book for Depth Buffer algo + depth sort + Warnock
+> * Done Unit IV - Light, Colour, Shading and Hidden surfaces.
