@@ -1,6 +1,6 @@
 # Unit V - Curves and Fractals
 
-## Syllabus:
+## &#10023; Syllabus:
 > * Curves:
 >   * Introduction
 >   * Interpolation and Approximation
@@ -18,9 +18,9 @@
 
 ---
 
-## Curves:
+## &#10023; Curves:
 
-* Introduction:
+* **Introduction:**
 > * Whatever you draw continuously without lifting up pen is called as curve.
 > * i.e set of points joined continuously is called as curve.
 > * Representation:
@@ -30,7 +30,7 @@
 
 ---
 
-* Interpolation and Approximation:
+* **Interpolation and Approximation:**
 > * Curve is specified by a set of control points.
 > * **Interpolation:**
 >   * If the curve passes through the control points, it is called interpolation.
@@ -48,14 +48,14 @@
 >   * If bounding box of the convex hull is inside Clipping region, no need to clip the curve. And if a bounding box is completely outside clipping window, clip the entire curve.
 ---
 
-* Blending Function:
+* **Blending Function:**
 > ![image](https://user-images.githubusercontent.com/68887544/115949590-c855b380-a4f3-11eb-8876-265a00de3d60.png)
 > ![image](https://user-images.githubusercontent.com/68887544/115949816-3058c980-a4f5-11eb-8745-8e890c6d9152.png)
 > ![image](https://user-images.githubusercontent.com/68887544/115949611-e3c0be80-a4f3-11eb-9372-193f552af0bc.png)
 
 ---
 
-* Bezier Curve:
+* **Bezier Curve:**
 > * This is an approximate spine curve.
 > * With cubic polynomials, Bezier curve can approximate any number of control points. 
 > * In Bezier curve, the degree of polynomial depends on a number of control points used to generate curve segment.
@@ -98,7 +98,7 @@
 
 ---
 
-* B-Spline Curve:
+* **B-Spline Curve:**
 >  * ![image](https://user-images.githubusercontent.com/68887544/115951021-2a1a1b80-a4fc-11eb-86e5-a1e373e95142.png)
 >  * ![image](https://user-images.githubusercontent.com/68887544/115951034-37cfa100-a4fc-11eb-9c60-9f2d4eed8425.png)
 >  * ![image](https://user-images.githubusercontent.com/68887544/115951045-3ef6af00-a4fc-11eb-94fe-d7613a48b8ae.png)
@@ -108,13 +108,60 @@
 
 ---
 
-* Bezier VS B-Spline Curve:
+* **Bezier VS B-Spline Curve:**
 > ![image](https://user-images.githubusercontent.com/68887544/115951531-d9f08880-a4fe-11eb-9f02-03d2e289d2be.png)
 
 ---
 
-## Fractals:
-> * 
+## &#10023; Fractals:
 
+* **Fractals:**
+> * Fractals are infinitely complex patterns that are self similar across different scales.
+> * Properties:
+>   * Infinite detail at every point.
+>   * Self-similarity between object parts.
+>   * Natural objects have infinite details; however, we should design a process which produces finite  detail because on the computer we cannot display infinite detail.
+>   * After certain levels of zoom in, Euclidean shapes lead to smooth drawing. While in the fractal object, if we keep zoom in, we continue to see the same detail as it appears in the original object. 
+>   * ![image](https://user-images.githubusercontent.com/68887544/115954768-66577700-a510-11eb-99d2-4eea83132d5a.png)
+>   * Zoom in effect on the monitor is achieved by selecting a smaller and smaller window with the same viewport. Less and less detail is mapped to the same size as the viewport.
 
+---
 
+* **Classification:**
+> * Self-similar fractals:
+>   * Such fractal exhibits the self-similarity in shape.
+>   * We can construct the object by applying different scaling factors to all parts or by using the same scaling factor for all. 
+>   * If we use a random scaling factor to generate the subparts, a fractal is called statistically self-similar. 
+>   * statistically self similar fractals are used to construct shapes like tree, shrubs, plants etc.
+> * Self-affine fractals:
+>   * Such fractals use different scaling factors for all three directions. We can add random variation to get statistically self-affine fractals. This class of fractals is best suited to model terrain, water, clouds etc.
+> * Invariant fractals:
+>   * Nonlinear transformation is applied to construct such fractals. A self-squaring function in complex space produces self-squaring fractals like Mandelbro. Self-inverse fractals are generated using the inversion procedure.
+> * ![image](https://user-images.githubusercontent.com/68887544/115955031-db777c00-a511-11eb-9b3a-a13e4157e9a5.png)
+
+---
+
+* **Fractal generation:**
+> ![image](https://user-images.githubusercontent.com/68887544/115955080-31e4ba80-a512-11eb-9148-d8e24a995270.png)
+> ![image](https://user-images.githubusercontent.com/68887544/115955086-36a96e80-a512-11eb-935e-cd92d61d69f7.png)
+> ![image](https://user-images.githubusercontent.com/68887544/115955096-4032d680-a512-11eb-9de0-734e00975984.png)
+
+---
+
+* **Application:**
+> * Fractals are used to model the natural shapes. Some of the prominent application areas of fractals are listed here:
+>   * Modelling natural structures like Geographic terrain, mountain, plant structure, clouds, vegetables, etc.
+>   * study of the chaotic phenomenon.
+>   * Fractal art
+>   * Space research 
+>   * Study of convergence of iterative processes
+>   * Engineering and architecture.
+>   * Medical science.
+>   * Chemical processes.
+>   * Medical diagnostic images.
+>   * Fluid mechanics
+>   * Image compression 
+>   * Telecommunication
+
+---
+> P.S. Done Unit V - Curves and Fractals.
