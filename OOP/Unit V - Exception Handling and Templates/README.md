@@ -89,11 +89,11 @@
 > * In this case exception will be thrown only for specified conditions and not for all the conditions.
 > * It is possible by adding throw list clause during function definition.
 > * the syntax for creating specific expection is :
->   * ```
->       return_type function_name(arguments) throw (type list){
->   // body of the function
-> }
 >   ```
+>   return_type function_name(arguments) throw (type list){
+>     // body of the function
+>   }
+>   
 > * If we throw any other exception then abnormal program termination occurs.
 > * Example of empty throw list is as follows which guarantees not to throw any type of exception.
 >   * ```throw();```
@@ -128,3 +128,79 @@
 ----
 
 ## &#10023; Templates:
+
+* Generic Programming:
+> * In this kind of programming type  of data is specified at run time.
+> * Generic programming is approach of creating generalize algorithms which are applicable for all data types.
+> * Template is best example of generic programming in C++.
+
+---
+
+* Power of Templates:
+> * It allows us to define generic classes and functions.
+> * Templates are useful in achieving dynamic polymorphism.
+> * Template is way of creating generalize functions and classes which are applicable for all data types without changing the definition of the program.
+> * Template can be function template or class templates.
+
+---
+* Need of Templates in C++:
+> * Templates are needed bcz it allows functions and classes classes to operate with generic types. This allows a function or class to work on many different data types without being rewritten for each one.
+
+---
+
+* Function Template:
+> * General syntax for creating function template:
+> ``` template<typename T>
+> return_type function_name(T type argument){
+> // code
+> }
+> ``` 
+> 
+> * In above syntax, T is generic variable.
+> * We set any data type for T.
+> * T is user-defined name and can be some other name also.
+> * We can pass more than one argument to function template also.
+> * We use template when we want to use different data types for same operation.
+> * We use function overloading when we want to use same data type but different operations.
+> * Template cannot take varying numbers of arguments. But Function overloading can take varying number of arguments.
+> * In addition, a template indicates that you can operate on any data type, but it's pointless to represent this when in fact, the vast majority of templates would be specializations only.
+> * Also, overloads can be virtual and template specification cannot.
+> * Syntax of function calling with function template is as follows:
+>   * ![image](https://user-images.githubusercontent.com/68887544/116060283-5cb04980-a69f-11eb-91a1-0ce301bed96b.png)
+
+---
+
+* Overloading Function Template:
+> * ![image](https://user-images.githubusercontent.com/68887544/116061794-e6ace200-a6a0-11eb-87c8-fbcef93071f8.png)
+
+---
+
+* Overloading Class Template:
+> * ![image](https://user-images.githubusercontent.com/68887544/116061884-fe846600-a6a0-11eb-80b9-8e34395d18fb.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116061919-09d79180-a6a1-11eb-862b-7f68e01e1bce.png)
+> 
+
+--- 
+
+* Class template and Nontype parameters:
+> * ![image](https://user-images.githubusercontent.com/68887544/116062125-41ded480-a6a1-11eb-9d1b-0473dfa5e1ba.png)
+
+---
+
+* Template and Friends Generic Functions:
+> * ![image](https://user-images.githubusercontent.com/68887544/116062293-63d85700-a6a1-11eb-8e7e-604464a2ad86.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116062341-6d61bf00-a6a1-11eb-86f8-47eb7e7908c4.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116062375-7488cd00-a6a1-11eb-96d8-20a6aee63b45.png)
+
+---
+
+* The type name and export keyword:
+> *  In a template declaration, typename can be used as an alternative to class to declare type template parameters and template parameters.
+> * Inside a declaration or a definition of a template, typename can be used to declare that a dependent qualified name is a type.
+> * Inside a declaration or a definition of a template, typename can be used before a non-dependent qualified type name. It has no effect in this case.
+> * Inside a requirements for type requirements.
+> * ![image](https://user-images.githubusercontent.com/68887544/116062895-f842b980-a6a1-11eb-9a91-21e4d4080b54.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116062935-02fd4e80-a6a2-11eb-999c-f471589fcded.png)
+> 
+---
+> P.S. Done Unit V - Exception Handling and Templates
