@@ -143,4 +143,84 @@
 ---
 
 * Hasse Diagram:
-> * 
+> * ![image](https://user-images.githubusercontent.com/68887544/116674633-8977a000-a9c2-11eb-8d89-457b13aa30b0.png)
+> * Remove Self Loop
+>   * ![image](https://user-images.githubusercontent.com/68887544/116674788-b461f400-a9c2-11eb-9306-c012f0bf3a83.png)
+> * Remove Transitive Lines:
+>   * ![image](https://user-images.githubusercontent.com/68887544/116674987-eecb9100-a9c2-11eb-8441-81b59af3e3b8.png)
+> * Remove Upward directions:
+>   * ![image](https://user-images.githubusercontent.com/68887544/116675186-289c9780-a9c3-11eb-85fc-c2a323d1a970.png)
+> * Simplified Hasse Diagram:
+>   * ![image](https://user-images.githubusercontent.com/68887544/116675297-4d910a80-a9c3-11eb-85cb-8f94f4e9ede6.png)
+> * Note: No downward relation.
+> * ![image](https://user-images.githubusercontent.com/68887544/116677183-87631080-a9c5-11eb-8a22-fdb625afec8d.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116679052-ad89b000-a9c7-11eb-92ec-4b6c31912e87.png)
+> 
+
+---
+
+* Maximal and minimal in Hasse Diagram:
+> * ![image](https://user-images.githubusercontent.com/68887544/116684117-2ab82380-a9ce-11eb-9ef5-c1a2a97f07e6.png)
+
+---
+
+* Maximum and Minimum in Hasse Diagram:
+> * ![image](https://user-images.githubusercontent.com/68887544/116685139-820ac380-a9cf-11eb-998d-c44595d12b4e.png)
+---
+
+* Upper bound and lower bound in hasse diagram:
+> * ![image](https://user-images.githubusercontent.com/68887544/116685960-c34fa300-a9d0-11eb-96a5-78fce2c182ea.png)
+
+---
+
+* Greatest Lower bound and least upper bound in hasse diagram:
+> * Q.no. 2. point fc wrong! Upper bound will be e, f and least upper bound will be f.
+> * ![image](https://user-images.githubusercontent.com/68887544/116687107-49b8b480-a9d2-11eb-92c2-649a5bf8d143.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116687493-e7ac7f00-a9d2-11eb-8e46-1410d85d1d74.png)
+> 
+---
+
+* Join Semi Lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116688561-82598d80-a9d4-11eb-8e60-3d139572d1dc.png)
+
+---
+
+* Meet semi lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116688958-1166a580-a9d5-11eb-94a6-f8d2acf9a827.png)
+
+---
+
+* Lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116689567-ed579400-a9d5-11eb-8c5b-91b137a45520.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116690337-de251600-a9d6-11eb-9779-a74a3fdb381c.png)
+> 
+
+---
+
+* Sub Lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116691015-e0d43b00-a9d7-11eb-82e4-7dbc4f126030.png)
+
+
+---
+
+* Properties of Lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116691594-a1f2b500-a9d8-11eb-9c86-3889013e3b65.png)
+
+---
+
+* Upper bound and lower bound of a lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116691937-33fabd80-a9d9-11eb-8773-2bf0bde47430.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116692395-ec286600-a9d9-11eb-8d03-112be17e6e34.png)
+
+---
+
+* Complement of an element in Lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116692722-71137f80-a9da-11eb-8cef-d64b1ec252b1.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116694442-eda75d80-a9dc-11eb-89c4-4482956d89d1.png)
+
+---
+
+
+ 
+
+
