@@ -112,3 +112,35 @@
 > * ![image](https://user-images.githubusercontent.com/68887544/116514261-6973ae00-a8e8-11eb-8dfa-7f28a3ddcdd4.png)
 > * ![image](https://user-images.githubusercontent.com/68887544/116532090-81096180-a8fd-11eb-9b92-189408f23308.png)
 
+---
+
+* Anti Symmetric Relation:
+> * ![image](https://user-images.githubusercontent.com/68887544/116656295-0cd8c780-a9aa-11eb-8710-a2b8ca199474.png)
+
+---
+
+* Asymmetric Relation:
+> * ![image](https://user-images.githubusercontent.com/68887544/116656995-4c53e380-a9ab-11eb-9a2a-ea397734db17.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116657184-a18ff500-a9ab-11eb-9c61-4ac9b324a48e.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116657361-e61b9080-a9ab-11eb-849b-6e9e5572a713.png)
+
+---
+
+* Transitive Relation:
+> * ![image](https://user-images.githubusercontent.com/68887544/116657991-ef592d00-a9ac-11eb-9ac9-d58df029f412.png)
+> *  ![image](https://user-images.githubusercontent.com/68887544/116658656-ee74cb00-a9ad-11eb-89a8-7189968965f6.png)
+
+---
+
+* Equivalence Relation:
+> * ![image](https://user-images.githubusercontent.com/68887544/116659886-e0c04500-a9af-11eb-85b1-5a139ccb0321.png)
+> 
+---
+
+* Partial Order Relation:
+> * ![image](https://user-images.githubusercontent.com/68887544/116660494-bde26080-a9b0-11eb-9cc3-96185268c103.png)
+
+---
+
+* Hasse Diagram:
+> * 
