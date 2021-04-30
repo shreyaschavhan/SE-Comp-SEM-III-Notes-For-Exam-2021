@@ -234,6 +234,95 @@
 > * ![image](https://user-images.githubusercontent.com/68887544/116698185-b6877b00-a9e1-11eb-9fb1-9ff9f8aaee35.png)
  
 
+ ---
  
+ ## &#10023; Functions:
+ 
+ * Types of Functions:
+ > * Injective Function
+ > * Surjective Function
+ > * Bijective Function/ One one onto function:
+ > * Into 
+ > * One one into 
+ > * Many one
+ > * Many one into
+ > * Many one onto
+ > * Equal
+ > * Constant
+ > * Identity
+ > * Inverse 
+ > * Odd
+ > * Even 
+ > 
+---
+* Injective Function / One One function:
+> * Unique image of A in B
+> * Also known as one-one function
+> * ![image](https://user-images.githubusercontent.com/68887544/116707094-ea679e00-a9eb-11eb-93a9-df124dc90153.png)
+> 
 
+---
+
+* Surjective Function/ Onto Function:
+> * minimum 1 pre-image of B in A
+> * ![image](https://user-images.githubusercontent.com/68887544/116707586-7974b600-a9ec-11eb-9c9d-d4350f33fb5f.png)
+
+---
+
+* Bijective Function/ One one onto function:
+> * Funciton which is injective + surjective
+> * ![image](https://user-images.githubusercontent.com/68887544/116707851-bfca1500-a9ec-11eb-8d7a-fd62c982e7b9.png)
+
+---
+
+* Into Function:
+> * Function bhi hona chiaye aur kam se kam ek element khali hona chiaye
+> * ![image](https://user-images.githubusercontent.com/68887544/116708346-3d8e2080-a9ed-11eb-8df8-513d2ca3c712.png)
+
+
+---
+
+* One One Into Function:
+> * Function jo one-one bhi ho aur into bhi ho
+> * ![image](https://user-images.githubusercontent.com/68887544/116708579-76c69080-a9ed-11eb-9219-8a7fd1fc53c1.png)
+
+---
+
+* Many One Function:
+> * Two or more domain ke liye same image aye toh many one.
+> * ![image](https://user-images.githubusercontent.com/68887544/116708876-c3aa6700-a9ed-11eb-819f-f5f4b70b42ab.png)
+
+---
+
+* Many one into:
+> * ![image](https://user-images.githubusercontent.com/68887544/116708972-dd4bae80-a9ed-11eb-8c74-57846678996f.png)
+
+---
+
+* Many one onto:
+> * ![image](https://user-images.githubusercontent.com/68887544/116709208-12f09780-a9ee-11eb-96af-3f513515ee41.png)
+
+---
+
+* Equal Function, Constant Function and Identity function:
+> * ![image](https://user-images.githubusercontent.com/68887544/116709949-d7a29880-a9ee-11eb-8b9f-a9143e2a8c6b.png)
+
+---
+
+* Inverse Function & Odd, Even Fucntion:
+> * ![image](https://user-images.githubusercontent.com/68887544/116711712-be9ae700-a9f0-11eb-931a-93a73607c1d6.png)
+> 
+---
+
+* Product or composition of function:
+> * ![image](https://user-images.githubusercontent.com/68887544/116712712-c444fc80-a9f1-11eb-8e73-145f13e75406.png)
+> 
+---
+
+* Pegion Hole Principle:
+> * ![image](https://user-images.githubusercontent.com/68887544/116713730-b0e66100-a9f2-11eb-90df-19afea243d6d.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116713982-e723e080-a9f2-11eb-824b-95b7c9c6f2df.png)
+
+----
+> P.S. Done Unit II - Relations and Functions
 
