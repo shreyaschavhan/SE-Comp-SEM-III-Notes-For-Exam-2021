@@ -220,6 +220,19 @@
 
 ---
 
+* Distributive Lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116696064-087ad180-a9df-11eb-9fd0-c56a28aaf7e5.png)
+
+---
+
+* Complemented Lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116697134-71af1480-a9e0-11eb-8e08-9c64d1cde839.png)
+
+---
+
+* Boolean algebra lattice:
+> * ![image](https://user-images.githubusercontent.com/68887544/116698185-b6877b00-a9e1-11eb-9fb1-9ff9f8aaee35.png)
+ 
 
  
 
