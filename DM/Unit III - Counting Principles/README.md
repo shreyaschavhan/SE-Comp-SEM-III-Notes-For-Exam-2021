@@ -75,5 +75,28 @@
 
 * Digit and Numbers problem:
 > * ![image](https://user-images.githubusercontent.com/68887544/116725610-c1e99f00-a9ff-11eb-8f86-932dcb0d2951.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116773675-791ffd80-aa74-11eb-8ea6-d86d29e314cd.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116773766-36125a00-aa75-11eb-9ed8-e8cd642da44b.png)
 
 ---
+
+* Permutation and Combination Concept:
+> * ![image](https://user-images.githubusercontent.com/68887544/116773915-51319980-aa76-11eb-99e1-d75b02d2b7b9.png)
+
+---
+
+* Words and letters problem:
+> * ![image](https://user-images.githubusercontent.com/68887544/116774184-7f17dd80-aa78-11eb-95e2-725baaba1fec.png)
+
+---
+
+* Team, Group, Committee problem:
+> * ![image](https://user-images.githubusercontent.com/68887544/116774447-40832280-aa7a-11eb-8c84-26a666f4210a.png)
+
+---
+
+* Flag colouring problem:
+> * ![image](https://user-images.githubusercontent.com/68887544/116774606-5218fa00-aa7b-11eb-905a-117162c88da5.png)
+
+---
+> P.S. Done Unit III - Counting Principles
