@@ -22,3 +22,6 @@
 * [Group_3.pdf](https://github.com/shreyaschavhan/end-sem-notes2021/files/6411610/Group_3.pdf)
 
 
+---
+
+> P.S. Done Unit Vi - Algebraic Structures and Coding Theory
