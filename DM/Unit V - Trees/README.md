@@ -86,42 +86,32 @@
 
 ---
 
+* Spanning Tree:
+> * ![image](https://user-images.githubusercontent.com/68887544/116812420-45c09a00-ab6c-11eb-8d79-68290ca6c987.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812443-65f05900-ab6c-11eb-986d-2098e2a889a1.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812455-743e7500-ab6c-11eb-89cf-2ef648436106.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812467-83bdbe00-ab6c-11eb-8e44-ebb022c6de91.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812481-920bda00-ab6c-11eb-9919-a41b6730288f.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812493-9e903280-ab6c-11eb-99ff-21a32fb1d85b.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812504-acde4e80-ab6c-11eb-9aa2-54a1a5d8f8ad.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812518-bcf62e00-ab6c-11eb-99ee-37a34dca10a7.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812529-cc757700-ab6c-11eb-9912-2c9eb2c763cc.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812538-db5c2980-ab6c-11eb-81e0-c861ca901274.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812546-e7e08200-ab6c-11eb-9d66-7e75720f3dbe.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812556-f4fd7100-ab6c-11eb-92b2-ad3147a8c333.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812568-00e93300-ab6d-11eb-81d9-a217fabdfa17.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812583-0e062200-ab6d-11eb-9c16-e4fb995036dd.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812595-1b231100-ab6d-11eb-8828-a2a76daf2f03.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116812607-2aa25a00-ab6d-11eb-81f1-8db8be1eef12.png)
 
+---
 
+* Binary Tree:
+> * ![image](https://user-images.githubusercontent.com/68887544/116812686-abf9ec80-ab6d-11eb-9ddb-4d3d3a5031e2.png)
 
+---
 
+Topic : Min-Max Flow remaining
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
+---
+> P.S. Done Unit V - Trees
