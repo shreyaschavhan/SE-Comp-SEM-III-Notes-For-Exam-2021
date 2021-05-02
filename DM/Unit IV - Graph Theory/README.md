@@ -71,5 +71,85 @@
 > ---
 > * ![image](https://user-images.githubusercontent.com/68887544/116781402-3e33bf00-aaa0-11eb-91c4-e179226e5334.png)
 
+---
+
+* Hamiltonian Path:
+> * ![image](https://user-images.githubusercontent.com/68887544/116804900-42afb480-ab40-11eb-9794-4e6e1e5258c5.png)
+> ---
+> * ![image](https://user-images.githubusercontent.com/68887544/116804932-6ffc6280-ab40-11eb-8f48-ece8bea8a292.png)
+> ---
+> * ![image](https://user-images.githubusercontent.com/68887544/116805003-f153f500-ab40-11eb-8443-b7b53eb85765.png)
+> ---
+> * ![image](https://user-images.githubusercontent.com/68887544/116805037-27917480-ab41-11eb-9021-4b3180758d32.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116805046-3aa44480-ab41-11eb-87a8-3a8bc1bbdefc.png)
+> ---
+> * ![image](https://user-images.githubusercontent.com/68887544/116805093-8525c100-ab41-11eb-93e1-b0bffa4b8078.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116805094-92db4680-ab41-11eb-9781-4ce272a5b8f5.png)
+> ---
+> * Nearest neighbour method:
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805162-1f860480-ab42-11eb-9389-c21d6b9544c6.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805170-2d3b8a00-ab42-11eb-9b59-edf620c7ce2e.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805193-522ffd00-ab42-11eb-8014-dc6aa14856ee.png)
+>   * ---
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805236-a509b480-ab42-11eb-846c-2ee316d2445a.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805258-bbb00b80-ab42-11eb-9a1a-4dbb242bd323.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805267-c9fe2780-ab42-11eb-94a4-b6199865d360.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805275-d84c4380-ab42-11eb-8fc0-dc0bf25dc877.png)
+>   
+---
+
+* Dijkstros Algorithm:
+> * Steps:
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805457-607f1880-ab44-11eb-81ec-4b8e1791b851.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805461-6e349e00-ab44-11eb-8eef-cc5f14b14277.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805470-7bea2380-ab44-11eb-905a-37d684f4c062.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805482-8a383f80-ab44-11eb-9dae-53b3740d53c0.png)
+> ---
+> * Examples:
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805509-a3d98700-ab44-11eb-862e-70dfea483c92.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805522-b227a300-ab44-11eb-84e5-21c5f6868dba.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805528-bf449200-ab44-11eb-99d7-f876837c8a3f.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805536-cbc8ea80-ab44-11eb-8d00-7d2fc421e3c8.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805545-d8e5d980-ab44-11eb-8a79-30a4ee5d260e.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805550-e307d800-ab44-11eb-8ecc-e050be31bbf4.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805559-eef39a00-ab44-11eb-9068-3bc094b9a84b.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805570-fca91f80-ab44-11eb-909f-014b7d16e4c1.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805584-13e80d00-ab45-11eb-8a1e-30dda367ec95.png)
+>   * ---
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805602-324e0880-ab45-11eb-84d5-d90f0059abdf.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805610-3d089d80-ab45-11eb-80d2-87e75b7d0172.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805613-472a9c00-ab45-11eb-91b8-482651e79a96.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805622-527dc780-ab45-11eb-910c-5a3a0c1c581c.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805630-61fd1080-ab45-11eb-9c34-6de162b90cd2.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805658-7ccf8500-ab45-11eb-9ba0-bbe808d5885f.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805671-91ac1880-ab45-11eb-8a5a-4d9b07cc41e9.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805690-abe5f680-ab45-11eb-92e4-77f8e9a6f16c.png)
+>   * ![image](https://user-images.githubusercontent.com/68887544/116805698-b7d1b880-ab45-11eb-8dd3-22d42732e834.png)
+>   
+
+--- 
+> P.S. Done Unit IV - Graph Theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
