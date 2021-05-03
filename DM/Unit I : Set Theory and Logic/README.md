@@ -234,5 +234,15 @@
 > * ![image](https://user-images.githubusercontent.com/68887544/116843137-a5668600-abfc-11eb-97ae-fe9a0b11aa11.png)
 
 ---
+
+* Laws of inference:
+> * Modus Ponen:
+>     * ![image](https://user-images.githubusercontent.com/68887544/116857954-42381c00-ac1b-11eb-91cc-ba00d9aa5edf.png)
+> * Modus Tollen:
+>     * ![image](https://user-images.githubusercontent.com/68887544/116858446-018cd280-ac1c-11eb-94a0-27ec116f6d17.png)
+
+
+
+---
 > P.S. Done - Unit I - Set Theory and Logic
 > 
