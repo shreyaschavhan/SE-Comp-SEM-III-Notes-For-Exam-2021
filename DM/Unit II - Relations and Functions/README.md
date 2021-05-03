@@ -324,5 +324,10 @@
 > * ![image](https://user-images.githubusercontent.com/68887544/116713982-e723e080-a9f2-11eb-824b-95b7c9c6f2df.png)
 
 ----
+* Transitive Closure:
+> * ![image](https://user-images.githubusercontent.com/68887544/116855521-2599e500-ac17-11eb-8b79-7ebae3f2667f.png)
+
+---
+
 > P.S. Done Unit II - Relations and Functions
 
