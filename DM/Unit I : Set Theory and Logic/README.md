@@ -30,6 +30,23 @@
 > * Mathematics + Computer Science Concepts
 
 
+## &#10023; Properties:
+
+> * ![image](https://user-images.githubusercontent.com/68887544/116870000-5b4ac800-ac2f-11eb-9043-e983cd6c465f.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116870082-7a495a00-ac2f-11eb-8102-7d6a2eab53eb.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116870126-8b926680-ac2f-11eb-952d-9fb538e2eeb2.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116870164-9fd66380-ac2f-11eb-9958-46f5f816fcc4.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116870246-d14f2f00-ac2f-11eb-8b0b-4fbcf93ac722.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116870335-03f92780-ac30-11eb-8b64-9443bca6d386.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116870356-12474380-ac30-11eb-9633-39d42b42d170.png)
+
+---
+
+
+
+
+
+
 ## &#10023; Set Theory:
 * Set Theory:
 > * Sets: 
