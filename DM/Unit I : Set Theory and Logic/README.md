@@ -240,6 +240,15 @@
 >     * ![image](https://user-images.githubusercontent.com/68887544/116857954-42381c00-ac1b-11eb-91cc-ba00d9aa5edf.png)
 > * Modus Tollen:
 >     * ![image](https://user-images.githubusercontent.com/68887544/116858446-018cd280-ac1c-11eb-94a0-27ec116f6d17.png)
+> ---
+> * ![image](https://user-images.githubusercontent.com/68887544/116858901-c8a12d80-ac1c-11eb-9ab3-893c4748675f.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116859010-ee2e3700-ac1c-11eb-9c14-a4411458e266.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116859077-08681500-ac1d-11eb-88b2-edf5aea63ade.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116859093-128a1380-ac1d-11eb-9ccc-b98cc863ac63.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116859135-22095c80-ac1d-11eb-8cd1-8a6939ce3f09.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116859177-30f00f00-ac1d-11eb-80e3-d8f0b6cd1b3f.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116859224-449b7580-ac1d-11eb-899a-1c3e56d6a2b8.png)
+
 
 
 
