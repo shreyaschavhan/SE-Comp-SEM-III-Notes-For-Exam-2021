@@ -164,3 +164,75 @@
 * Principle of Inclusion and Exclusion:
 > ![image](https://user-images.githubusercontent.com/68887544/115843713-c0870800-a43c-11eb-8c5f-331a787c8008.png)
 
+---
+
+## &#10023; Logic
+
+> * ![image](https://user-images.githubusercontent.com/68887544/116842353-ec9f4780-abf9-11eb-8ad1-394247014252.png)
+
+* Negation:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842405-16f10500-abfa-11eb-9d4a-0a0716d3c786.png)
+> 
+
+---
+
+* Conjuction
+> * ![image](https://user-images.githubusercontent.com/68887544/116842447-3ab44b00-abfa-11eb-8e24-22d30cf84537.png)
+
+---
+
+* Disjunction:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842503-620b1800-abfa-11eb-9665-eb10cc4e7ae9.png)
+> * Exclusive or:
+>     * ![image](https://user-images.githubusercontent.com/68887544/116842549-84049a80-abfa-11eb-9921-2fdb8b2d84d3.png)
+
+----
+
+* Conditional statements or implications:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842595-a1d1ff80-abfa-11eb-9dc6-e2bb1ebad19d.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116842619-ba421a00-abfa-11eb-8af0-b389c340d3e9.png)
+
+---
+
+* Converse, Contrapositve and inverse
+> * ![image](https://user-images.githubusercontent.com/68887544/116842647-d645bb80-abfa-11eb-8aac-d7f2bb94f88e.png)
+
+
+---
+
+* Biconditional:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842665-f1b0c680-abfa-11eb-9d22-d4f85ebdf35c.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116842683-00977900-abfb-11eb-9a6e-a9f2fe3def71.png)
+
+---
+
+* Tautology, contradiction and contigency:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842756-43595100-abfb-11eb-8320-f98efc0a2cbe.png)
+
+---
+
+* Logically equivalent:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842798-697ef100-abfb-11eb-942b-f3b95d1fa92f.png)
+
+---
+* Logical identities:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842856-a8ad4200-abfb-11eb-8ef9-82ce994fddb7.png)
+> * ![image](https://user-images.githubusercontent.com/68887544/116842876-b82c8b00-abfb-11eb-8cce-ceff693fae09.png)
+
+---
+* Disjunctive normal function:
+> * ![image](https://user-images.githubusercontent.com/68887544/116842972-1194ba00-abfc-11eb-92f5-e9632d7a2a44.png)
+
+---
+
+* Conjuctive Normal function:
+> * ![image](https://user-images.githubusercontent.com/68887544/116843043-502a7480-abfc-11eb-97b4-14dc34a7acf1.png)
+
+---
+
+* Demorgan's law of Quantifiers:
+> * ![image](https://user-images.githubusercontent.com/68887544/116843137-a5668600-abfc-11eb-97ae-fe9a0b11aa11.png)
+
+---
+> P.S. Done - Unit I - Set Theory and Logic
+> 
